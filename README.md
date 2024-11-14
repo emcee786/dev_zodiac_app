@@ -26,4 +26,4 @@ Standout days: When your code compiles on the first try, when the pull request i
 Challenging days: When the deployment fails on a Friday afternoon, when you accidentally push sensitive data to the repository
 
 ![Project Demo](images/pf_userinput.png)
-![Project Demo](images/pf_userinput2.png)
+![Project Demo2](images/pf_userinput2.png)
