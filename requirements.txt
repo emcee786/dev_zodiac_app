@@ -1,0 +1,8 @@
+pydantic
+typing-extensions
+prefect
+requests
+python-dotenv
+langchain-core
+langchain-community
+beautifulsoup4
