@@ -25,5 +25,5 @@ As the sun enters outgoing Sagittarius on November 21, embrace the need for grow
 Standout days: When your code compiles on the first try, when the pull request is approved without any comments, when the server stays up without crashing
 Challenging days: When the deployment fails on a Friday afternoon, when you accidentally push sensitive data to the repository
 
-![Project Demo](images/pf_userinput.png)
+![Project Demo](images/pf_userinput2.png)
 
